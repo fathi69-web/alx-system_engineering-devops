@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h julien:school   hello
+chown  julien:school   hello
